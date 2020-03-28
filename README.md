@@ -1,0 +1,2 @@
+# TechnikiProgramowania
+Zajecia Technik Programowania

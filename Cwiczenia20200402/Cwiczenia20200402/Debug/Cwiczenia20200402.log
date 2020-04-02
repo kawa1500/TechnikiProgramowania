@@ -1,2 +1,23 @@
-﻿  Cwiczenia20200402.cpp
-  Cwiczenia20200402.vcxproj -> C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Debug\Cwiczenia20200402.exe
+﻿  Przykladowa.cpp
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(3,25): error C2653: "Przykladowa": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(3,32): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(4,1): error C2550: "Przykladowa": listy inicjatorów konstruktora są dozwolone tylko dla definicji konstruktora
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(7,2): error C2065: "zmienna2": niezadeklarowany identyfikator
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(8,1): warning C4508: "Przykladowa": funkcja powinna zwrócić wartość; założono typ zwracany "void"
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(9,26): error C2653: "Przykladowa": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(9,26): error C2523: „<Nieznany>::~Przykladowa”: niezgodność tagu destruktor
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(10,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(11,11): error C2065: "zmienna2": niezadeklarowany identyfikator
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(11,19): error C2541: "delete": nie można usunąć obiektów, które nie są wskaźnikami
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(12,1): warning C4508: "Przykladowa": funkcja powinna zwrócić wartość; założono typ zwracany "void"
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(14,26): error C2653: "Przykladowa": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(16,30): error C2065: "zmienna": niezadeklarowany identyfikator
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(18,2): error C3409: pusty blok atrybutu nie jest dozwolony
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(18,2): error C2143: błąd składniowy: brakuje „]” przed „stała”
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(18,2): error C2059: błąd składniowy: „stała”
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(18,5): error C2059: błąd składniowy: „stała”
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(21,1): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\Przykladowa.cpp(21,1): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+  RownanieKwadratowe1.cpp
+  Generowanie kodu...
+C:\Users\msala\Desktop\TechnikiProgramowaniaCpp\TechnikiProgramowania\Cwiczenia20200402\Cwiczenia20200402\RownanieKwadratowe1.cpp(55): warning C4715: "RownanieKwadratowe1::get”: niewszystkie ścieżki kodu zwracają wartość

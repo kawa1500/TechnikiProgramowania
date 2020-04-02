@@ -148,6 +148,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cwiczenia20200402.cpp" />
+    <ClCompile Include="Przykladowa.cpp" />
+    <ClCompile Include="RownanieKwadratowe1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Przykladowa.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="RownanieKwadratowe1.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Cwiczenia20200402.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

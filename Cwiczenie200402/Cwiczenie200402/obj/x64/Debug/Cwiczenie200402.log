@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(152,5): error : Brak skonfigurowanych maszyn zdalnych na potrzeby kompilacji zdalnych. Skonfiguruj maszynę, wybierając pozycję Narzędzia | Opcje | Wiele platform | Menedżer połączeń.

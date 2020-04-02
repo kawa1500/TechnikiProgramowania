@@ -148,6 +148,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cwiczenia0204.cpp" />
+    <ClCompile Include="Przykladowa.cpp" />
+    <ClCompile Include="RownanieKwadratowe.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Przykladowa.h" />
+    <ClInclude Include="RownanieKwadratowe.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

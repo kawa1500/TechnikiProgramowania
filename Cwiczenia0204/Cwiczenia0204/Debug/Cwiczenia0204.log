@@ -1,2 +1,5 @@
 ﻿  Cwiczenia0204.cpp
+  RownanieKwadratowe.cpp
+  Generowanie kodu...
+D:\Studia\TP\TechnikiProgramowania\Cwiczenia0204\Cwiczenia0204\RownanieKwadratowe.cpp(43): warning C4715: "RownanieKwadratowe::get”: niewszystkie ścieżki kodu zwracają wartość
   Cwiczenia0204.vcxproj -> D:\Studia\TP\TechnikiProgramowania\Cwiczenia0204\Debug\Cwiczenia0204.exe

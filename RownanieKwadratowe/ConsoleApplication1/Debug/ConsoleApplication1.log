@@ -1,0 +1,3 @@
+﻿  RownanieKwadratowe.cpp
+c:\users\pier\documents\techniki programowania cpp\technikiprogramowania\rownaniekwadratowe\consoleapplication1\rownaniekwadratowe.cpp(57): warning C4715: "RownanieKwadratowe::get”: niewszystkie ścieżki kodu zwracają wartość
+  ConsoleApplication1.vcxproj -> C:\Users\Pier\Documents\Techniki programowania cpp\TechnikiProgramowania\RownanieKwadratowe\Debug\ConsoleApplication1.exe

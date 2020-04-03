@@ -2,10 +2,29 @@
 //
 
 #include <iostream>
+#include "przyklad.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    przyklad p0(3); //definicja obiektu o nazwie p0
+    p0.display();
+
+    przyklad* p1 = new przyklad(5);
+    p1->display();
+
+    przyklad p2(7);
+    przyklad p3(9);
+    p1 = &p2;
+    p1->display();
+    p1 = &p3;
+    p1->display();
+    p1 = &p0;
+    p1->display();
+
+    //delete p1;
+
+
+    
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania

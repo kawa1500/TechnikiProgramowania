@@ -1,2 +1,12 @@
 ﻿  cwiczenie-02-04.cpp
-  cwiczenie-02-04.vcxproj -> C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\Debug\cwiczenie-02-04.exe
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(32,9): error C2065: "cout": niezadeklarowany identyfikator
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(32,44): error C2065: "endl": niezadeklarowany identyfikator
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(35,9): error C2065: "cout": niezadeklarowany identyfikator
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(35,44): error C2065: "endl": niezadeklarowany identyfikator
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(37,13): error C2065: "cout": niezadeklarowany identyfikator
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(50,9): error C2065: "cout": niezadeklarowany identyfikator
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(50,44): error C2065: "endl": niezadeklarowany identyfikator
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(52,13): error C2065: "cout": niezadeklarowany identyfikator
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(59,9): error C2065: "cout": niezadeklarowany identyfikator
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(59,45): error C2065: "endl": niezadeklarowany identyfikator
+C:\Users\jasko\Desktop\studia\TechnikiProgramowania\cwiczenie-02-04\cwiczenie-02-04\cwiczenie-02-04.cpp(61,13): error C2065: "cout": niezadeklarowany identyfikator

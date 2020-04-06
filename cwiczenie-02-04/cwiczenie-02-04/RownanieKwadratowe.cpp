@@ -14,9 +14,6 @@ RownanieKwadratowe::RownanieKwadratowe(double a, double b, double c)
 	this ->a= a;
 	this->b = b;
 	this->c = c;
-
-	
-
 }
 
 RownanieKwadratowe::RownanieKwadratowe(double* listWsp)
@@ -97,14 +94,19 @@ std::list<double> RownanieKwadratowe::zeroPlaces()
 {
 	std::list<double>  list;
 	double delta = this->delta();
-	if (delta == 0) 
+	if (a == 0)
+	{
+		list.push_back(-c / b);
+	}
+	else if (delta == 0) 
 	{
 		list.push_back(-b / (2 * a * c));
 	}
-	if (delta > 0)
+	else if (delta > 0)
 	{
 		list.push_back((-b + sqrt(delta)) / (2 * a));
 		list.push_back((-b - sqrt(delta)) / (2 * a));
 	}
+
 	return list;
 }
